@@ -6,7 +6,7 @@ Name: Kuan Horng Lai
 Student ID: 45776148
 Github: https://github.com/Titus-Lai
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Analysis of Cycling Data*
 
@@ -32,7 +32,7 @@ Github: https://github.com/Titus-Lai
 In this dataset, we observed and concluded that the average speed for 2016 rides were faster than 2019 rides. The total time used for each ride were slightly different. Riders in 2016 seems to have more to power to maintain their speed in every fields.
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Sport Vouchers Program Analysis*
 
@@ -60,7 +60,7 @@ In this dataset, we observed and concluded that the average speed for 2016 rides
 In a nutshell, there is no clear statistical relationshop between these two dataset. However, the popularity of sports were various according to different LGA. Australian rules and netball are the most preferable sports among other sports in New South Wales while Queensland's kids like rugby league and football more than other activities.
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Mobile Customer Churn*
 
