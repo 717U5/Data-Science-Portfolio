@@ -6,7 +6,7 @@ Name: Kuan Horng Lai
 Student ID: 45776148
 Github: https://github.com/Titus-Lai
 
-##Analysis of Cycling Data
+**Analysis of Cycling Data**
 
 ###Dataset Used
 1. The datasets used in this portfolio are Calga_RR_2016.gpx, Calga_RR_2019.gpx, Calga_TT_2016.gpx, and Calga_TT_2019.gpx.
