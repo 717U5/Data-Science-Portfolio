@@ -84,3 +84,34 @@ In a nutshell, there is no clear statistical relationshop between these two data
 **Conclusion**
 
 In conclusion, the prediction model for churn works with the accuracy score of 0.7. Churn is where a customer leave their mobile provider. We can use this model to calculate, estimate and predict the mobile customer churn with a successful rate of 70%.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Taxation in Different Postcodes*
+
+**Dataset Used**
+1. The datasets used in this portfolio is ts17individual25countaveragemedianbypostcode.csv.
+
+**Analysis**
+1. Extraction,read and named the datasets.
+2. NaN values checking.
+3. Display and visualize each fields in line gaphs.
+4. Table display for the lowest and highest results.
+5. Build logistic regression model based on count net tax.
+6. Test and train set spliting.
+7. Calculation for correlation coeeficient.
+8. Calculation for accuracy score.
+9. Build logistic regression model based on average net tax.
+10. Test and train set spliting.
+11. Calculation for correlation coeeficient.
+12. Calculation for accuracy score.
+
+**Goal of this portfolio**
+1. Analyze and observe the dataset.
+2. Provide visualization explanation.
+3. Compare different output to prove or reject assumption.
+
+**Conclusion**
+
+To summarise what I have learnt from our evaluation of the data set "Taxation based on postcodes" is that there is a very mixed basket of results and that there are some outliers that have a much higher average salary and wage and thus a higher amount of average tax paid by those outliers. From the first two plots, we can see that there is a very comparable difference between what people's average salaries are and the amount of tax that they pay. unsurprisingly the postcode with the highest salary is the one that is paying the most tax (postcode 3010) with an average salary of 141,262 dollars and an average tax of 61,126 dollars, but there are a lot of postcodes that earn a lot less and pay almost the same amount of tax as that of the highest-earning postcodes.
