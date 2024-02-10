@@ -1,10 +1,6 @@
 # Data Science Portfolio
 
-This repository contains the files for the Portfolio task for COMP2200/6200 in S2 2021. 
-
-Name: Kuan Horng Lai
-Student ID: 45776148
-Github: https://github.com/Titus-Lai
+This repository contains the files for the Portfolio task
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
